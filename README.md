@@ -4,19 +4,12 @@
 Tourisme, Education, Divertissement
 
 ## A propos du projet
-Le projet consiste à permettre aux spectateurs de participer à un jeu de Chasse au trésor en Réalité Augmentée tout en apprenant l'histoire du patrimoine touristique visualiser.   
-### Technologies utilisées
+Le projet consiste à permettre aux spectateurs de participer à un jeu de Chasse au trésor en Réalité Augmentée tout en apprenant l'histoire du patrimoine touristique visualisé et de créer une chaine de valeur. Un parcours riche et adapté est mis en place pour permettre une parfaite immersion du spectateur.   
 
-* [React.JS](https://reactjs.org/)
-* [Three.JS](https://threejs.org/)
+### Technologies utilisées
+* Vuforia
+* Unity
 
 
 ## Note
-L'application Web est optimisée pour le mobile. Sur iOS, la RA ne fonctionnera qu'avec le XRViewer de Mozilla. Sur Android, l'application devra être déployée sous HTTPS.
-
-# Lancer le projet
-
-Dans le répertoire racine, lancez les commandes suivantes:
-
-### `npm install` 
-### `npm start`
+L'application a son équivalent en VR pour permettre à ceux qui ne peuvent se deplacer de visiter  et/ou de permettre aux acteurs du secteur touristique de diversifié leur source de revenus.
