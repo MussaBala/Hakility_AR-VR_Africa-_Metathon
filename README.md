@@ -1,7 +1,7 @@
 # Hakility_AR-VR_Africa-_Metathon
 
 ## Secteur
-Tourisme, Education, Divertissement
+Tourisme, Education, Culture
 
 ## A propos du projet
 Le projet consiste à permettre aux spectateurs de participer à un jeu de Chasse au trésor en Réalité Augmentée tout en apprenant l'histoire du patrimoine touristique visualisé et de créer une chaine de valeur. Un parcours riche et adapté est mis en place pour permettre une parfaite immersion du spectateur.   
