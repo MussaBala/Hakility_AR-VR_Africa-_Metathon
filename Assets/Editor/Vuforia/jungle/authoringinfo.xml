@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="5.0" bbox="-8.4170 -1.7111 -1.5908 1.2550 0.6080 7.6806" targetId="e16b4fe5e1ba4eb5b991a5bd4cddd294" name="jungle" pathAuthoring="e16b4fe5e1ba4eb5b991a5bd4cddd294_authoring.glb" pathOcclusion="e16b4fe5e1ba4eb5b991a5bd4cddd294_occlusion.3dt" pathNavMesh="e16b4fe5e1ba4eb5b991a5bd4cddd294_navmesh.glb" />
+    </TargetSet>
+</QCARInfo>
